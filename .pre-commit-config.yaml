@@ -1,5 +1,5 @@
 - repo: git://github.com/rwxlabs/tf-pre-commit
-  sha: db8222c5e780c263f9b35d2c2361f9992aac80c7
+  sha: e295f0b830ce8490aff6a778d250c26fbdfd1edc
   hooks:
   - id: terraform_validate
   - id: terraform_fmt
